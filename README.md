@@ -110,18 +110,17 @@ To guarantee executive trust, all analytical layers were reconciled against the 
 ## 🛠️ Repository Structure
 
 ```text
-├── Cellutech_iPhone_Sales_Analytics/
-│   ├── README.md                          # Project documentation
-│   ├── sql/
-│   │   └── pilot_project_sql_scripts.sql  # 5-part complete SQL suite
-│   ├── data/
-│   │   ├── iphone_transactions.csv        # Sanitized transactions (10k rows)
-│   │   └── product_master.csv             # Product dimensional reference (93 SKUs)
-│   ├── docs/
-│   │   └── Pilot_Project_Submission_Ismail_Dad_Khan.pdf # Full executive report
-│   └── scripts/
-│       ├── deep_audit.py                  # Python data quality audit script
-│       └── convert_to_csv.py              # Excel to CSV ETL converter
+├── README.md                          # Project documentation
+├── sql/
+│   └── pilot_project_sql_scripts.sql  # 5-part complete SQL suite
+├── data/
+│   ├── iphone_transactions.csv        # Sanitized transactions (10k rows)
+│   └── product_master.csv             # Product dimensional reference (93 SKUs)
+├── docs/
+│   └── Pilot_Project_Submission_Ismail_Dad_Khan.pdf # Full executive report
+└── scripts/
+    ├── deep_audit.py                  # Python data quality audit script
+    └── convert_to_csv.py              # Excel to CSV ETL converter
 ```
 
 ---
@@ -141,7 +140,7 @@ The repository includes enterprise-grade, commented SQL queries partitioned into
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/IsmailDadKhan/JUNIOR-DATA-ANALYST-PILOT-PROJECT-ASSIGNMENT.git
+   git clone https://github.com/IsmailDadKhan/Enterprise-iPhone-Sales-Analytics.git
    ```
 2. **Setup Google BigQuery:**
    - Create a dataset named `cellutech_iphone_sales`.
