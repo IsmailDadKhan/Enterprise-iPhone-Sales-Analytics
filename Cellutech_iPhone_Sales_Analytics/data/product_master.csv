@@ -1,0 +1,94 @@
+Item_ID,PO_Description,Model,Storage,Color
+APP-IP14-128G-BLUE,iPhone 14 128GB - Blue,iPhone 14,128GB,Blue
+APP-IP14-128G-MIDNIG,iPhone 14 128GB - Midnight,iPhone 14,128GB,Midnight
+APP-IP14-128G-PURPLE,iPhone 14 128GB - Purple,iPhone 14,128GB,Purple
+APP-IP14-128G-RED,iPhone 14 128GB - Red,iPhone 14,128GB,Red
+APP-IP14-128G-STARLI,iPhone 14 128GB - Starlight,iPhone 14,128GB,Starlight
+APP-IP14-128G-YELLOW,iPhone 14 128GB - Yellow,iPhone 14,128GB,Yellow
+APP-IP14-256G-BLUE,iPhone 14 256GB - Blue,iPhone 14,256GB,Blue
+APP-IP14-256G-MIDNIG,iPhone 14 256GB - Midnight,iPhone 14,256GB,Midnight
+APP-IP14-256G-PURPLE,iPhone 14 256GB - Purple,iPhone 14,256GB,Purple
+APP-IP14-256G-RED,iPhone 14 256GB - Red,iPhone 14,256GB,Red
+APP-IP14-256G-STARLI,iPhone 14 256GB - Starlight,iPhone 14,256GB,Starlight
+APP-IP14-256G-YELLOW,iPhone 14 256GB - Yellow,iPhone 14,256GB,Yellow
+APP-IP14-512G-BLUE,iPhone 14 512GB - Blue,iPhone 14,512GB,Blue
+APP-IP14-512G-MIDNIG,iPhone 14 512GB - Midnight,iPhone 14,512GB,Midnight
+APP-IP14-512G-PURPLE,iPhone 14 512GB - Purple,iPhone 14,512GB,Purple
+APP-IP14-512G-RED,iPhone 14 512GB - Red,iPhone 14,512GB,Red
+APP-IP14-512G-STARLI,iPhone 14 512GB - Starlight,iPhone 14,512GB,Starlight
+APP-IP14-512G-YELLOW,iPhone 14 512GB - Yellow,iPhone 14,512GB,Yellow
+APP-IP14PM-128G-DEEPPU,iPhone 14 Pro Max 128GB - Deep Purple,iPhone 14 Pro Max,128GB,Deep Purple
+APP-IP14PM-128G-GOLD,iPhone 14 Pro Max 128GB - Gold,iPhone 14 Pro Max,128GB,Gold
+APP-IP14PM-128G-SILVER,iPhone 14 Pro Max 128GB - Silver,iPhone 14 Pro Max,128GB,Silver
+APP-IP14PM-128G-SPACEB,iPhone 14 Pro Max 128GB - Space Black,iPhone 14 Pro Max,128GB,Space Black
+APP-IP14PM-1TB-DEEPPU,iPhone 14 Pro Max 1TB - Deep Purple,iPhone 14 Pro Max,1TB,Deep Purple
+APP-IP14PM-1TB-GOLD,iPhone 14 Pro Max 1TB - Gold,iPhone 14 Pro Max,1TB,Gold
+APP-IP14PM-1TB-SILVER,iPhone 14 Pro Max 1TB - Silver,iPhone 14 Pro Max,1TB,Silver
+APP-IP14PM-1TB-SPACEB,iPhone 14 Pro Max 1TB - Space Black,iPhone 14 Pro Max,1TB,Space Black
+APP-IP14PM-256G-DEEPPU,iPhone 14 Pro Max 256GB - Deep Purple,iPhone 14 Pro Max,256GB,Deep Purple
+APP-IP14PM-256G-GOLD,iPhone 14 Pro Max 256GB - Gold,iPhone 14 Pro Max,256GB,Gold
+APP-IP14PM-256G-SILVER,iPhone 14 Pro Max 256GB - Silver,iPhone 14 Pro Max,256GB,Silver
+APP-IP14PM-256G-SPACEB,iPhone 14 Pro Max 256GB - Space Black,iPhone 14 Pro Max,256GB,Space Black
+APP-IP14PM-512G-DEEPPU,iPhone 14 Pro Max 512GB - Deep Purple,iPhone 14 Pro Max,512GB,Deep Purple
+APP-IP14PM-512G-GOLD,iPhone 14 Pro Max 512GB - Gold,iPhone 14 Pro Max,512GB,Gold
+APP-IP14PM-512G-SILVER,iPhone 14 Pro Max 512GB - Silver,iPhone 14 Pro Max,512GB,Silver
+APP-IP14PM-512G-SPACEB,iPhone 14 Pro Max 512GB - Space Black,iPhone 14 Pro Max,512GB,Space Black
+APP-IP14PRO-128G-DEEPPU,iPhone 14 Pro 128GB - Deep Purple,iPhone 14 Pro,128GB,Deep Purple
+APP-IP14PRO-128G-GOLD,iPhone 14 Pro 128GB - Gold,iPhone 14 Pro,128GB,Gold
+APP-IP14PRO-128G-SILVER,iPhone 14 Pro 128GB - Silver,iPhone 14 Pro,128GB,Silver
+APP-IP14PRO-128G-SPACEB,iPhone 14 Pro 128GB - Space Black,iPhone 14 Pro,128GB,Space Black
+APP-IP14PRO-1TB-DEEPPU,iPhone 14 Pro 1TB - Deep Purple,iPhone 14 Pro,1TB,Deep Purple
+APP-IP14PRO-1TB-GOLD,iPhone 14 Pro 1TB - Gold,iPhone 14 Pro,1TB,Gold
+APP-IP14PRO-1TB-SILVER,iPhone 14 Pro 1TB - Silver,iPhone 14 Pro,1TB,Silver
+APP-IP14PRO-1TB-SPACEB,iPhone 14 Pro 1TB - Space Black,iPhone 14 Pro,1TB,Space Black
+APP-IP14PRO-256G-DEEPPU,iPhone 14 Pro 256GB - Deep Purple,iPhone 14 Pro,256GB,Deep Purple
+APP-IP14PRO-256G-GOLD,iPhone 14 Pro 256GB - Gold,iPhone 14 Pro,256GB,Gold
+APP-IP14PRO-256G-SILVER,iPhone 14 Pro 256GB - Silver,iPhone 14 Pro,256GB,Silver
+APP-IP14PRO-256G-SPACEB,iPhone 14 Pro 256GB - Space Black,iPhone 14 Pro,256GB,Space Black
+APP-IP14PRO-512G-DEEPPU,iPhone 14 Pro 512GB - Deep Purple,iPhone 14 Pro,512GB,Deep Purple
+APP-IP14PRO-512G-GOLD,iPhone 14 Pro 512GB - Gold,iPhone 14 Pro,512GB,Gold
+APP-IP14PRO-512G-SILVER,iPhone 14 Pro 512GB - Silver,iPhone 14 Pro,512GB,Silver
+APP-IP14PRO-512G-SPACEB,iPhone 14 Pro 512GB - Space Black,iPhone 14 Pro,512GB,Space Black
+APP-IP15-128G-BLACK,iPhone 15 128GB - Black,iPhone 15,128GB,Black
+APP-IP15-128G-BLUE,iPhone 15 128GB - Blue,iPhone 15,128GB,Blue
+APP-IP15-128G-GREEN,iPhone 15 128GB - Green,iPhone 15,128GB,Green
+APP-IP15-128G-PINK,iPhone 15 128GB - Pink,iPhone 15,128GB,Pink
+APP-IP15-128G-YELLOW,iPhone 15 128GB - Yellow,iPhone 15,128GB,Yellow
+APP-IP15-256G-BLACK,iPhone 15 256GB - Black,iPhone 15,256GB,Black
+APP-IP15-256G-BLUE,iPhone 15 256GB - Blue,iPhone 15,256GB,Blue
+APP-IP15-256G-GREEN,iPhone 15 256GB - Green,iPhone 15,256GB,Green
+APP-IP15-256G-PINK,iPhone 15 256GB - Pink,iPhone 15,256GB,Pink
+APP-IP15-256G-YELLOW,iPhone 15 256GB - Yellow,iPhone 15,256GB,Yellow
+APP-IP15-512G-BLACK,iPhone 15 512GB - Black,iPhone 15,512GB,Black
+APP-IP15-512G-BLUE,iPhone 15 512GB - Blue,iPhone 15,512GB,Blue
+APP-IP15-512G-GREEN,iPhone 15 512GB - Green,iPhone 15,512GB,Green
+APP-IP15-512G-PINK,iPhone 15 512GB - Pink,iPhone 15,512GB,Pink
+APP-IP15-512G-YELLOW,iPhone 15 512GB - Yellow,iPhone 15,512GB,Yellow
+APP-IP15PM-1TB-BLACKT,iPhone 15 Pro Max 1TB - Black Titanium,iPhone 15 Pro Max,1TB,Black Titanium
+APP-IP15PM-1TB-BLUETI,iPhone 15 Pro Max 1TB - Blue Titanium,iPhone 15 Pro Max,1TB,Blue Titanium
+APP-IP15PM-1TB-NATURA,iPhone 15 Pro Max 1TB - Natural Titanium,iPhone 15 Pro Max,1TB,Natural Titanium
+APP-IP15PM-1TB-WHITET,iPhone 15 Pro Max 1TB - White Titanium,iPhone 15 Pro Max,1TB,White Titanium
+APP-IP15PM-256G-BLACKT,iPhone 15 Pro Max 256GB - Black Titanium,iPhone 15 Pro Max,256GB,Black Titanium
+APP-IP15PM-256G-BLUETI,iPhone 15 Pro Max 256GB - Blue Titanium,iPhone 15 Pro Max,256GB,Blue Titanium
+APP-IP15PM-256G-NATURA,iPhone 15 Pro Max 256GB - Natural Titanium,iPhone 15 Pro Max,256GB,Natural Titanium
+APP-IP15PM-256G-WHITET,iPhone 15 Pro Max 256GB - White Titanium,iPhone 15 Pro Max,256GB,White Titanium
+APP-IP15PM-512G-BLACKT,iPhone 15 Pro Max 512GB - Black Titanium,iPhone 15 Pro Max,512GB,Black Titanium
+APP-IP15PM-512G-BLUETI,iPhone 15 Pro Max 512GB - Blue Titanium,iPhone 15 Pro Max,512GB,Blue Titanium
+APP-IP15PM-512G-NATURA,iPhone 15 Pro Max 512GB - Natural Titanium,iPhone 15 Pro Max,512GB,Natural Titanium
+APP-IP15PM-512G-WHITET,iPhone 15 Pro Max 512GB - White Titanium,iPhone 15 Pro Max,512GB,White Titanium
+APP-IP15PRO-128G-BLACKT,iPhone 15 Pro 128GB - Black Titanium,iPhone 15 Pro,128GB,Black Titanium
+APP-IP15PRO-128G-BLUETI,iPhone 15 Pro 128GB - Blue Titanium,iPhone 15 Pro,128GB,Blue Titanium
+APP-IP15PRO-128G-NATURA,iPhone 15 Pro 128GB - Natural Titanium,iPhone 15 Pro,128GB,Natural Titanium
+APP-IP15PRO-128G-WHITET,iPhone 15 Pro 128GB - White Titanium,iPhone 15 Pro,128GB,White Titanium
+APP-IP15PRO-1TB-BLACKT,iPhone 15 Pro 1TB - Black Titanium,iPhone 15 Pro,1TB,Black Titanium
+APP-IP15PRO-1TB-BLUETI,iPhone 15 Pro 1TB - Blue Titanium,iPhone 15 Pro,1TB,Blue Titanium
+APP-IP15PRO-1TB-NATURA,iPhone 15 Pro 1TB - Natural Titanium,iPhone 15 Pro,1TB,Natural Titanium
+APP-IP15PRO-1TB-WHITET,iPhone 15 Pro 1TB - White Titanium,iPhone 15 Pro,1TB,White Titanium
+APP-IP15PRO-256G-BLACKT,iPhone 15 Pro 256GB - Black Titanium,iPhone 15 Pro,256GB,Black Titanium
+APP-IP15PRO-256G-BLUETI,iPhone 15 Pro 256GB - Blue Titanium,iPhone 15 Pro,256GB,Blue Titanium
+APP-IP15PRO-256G-NATURA,iPhone 15 Pro 256GB - Natural Titanium,iPhone 15 Pro,256GB,Natural Titanium
+APP-IP15PRO-256G-WHITET,iPhone 15 Pro 256GB - White Titanium,iPhone 15 Pro,256GB,White Titanium
+APP-IP15PRO-512G-BLACKT,iPhone 15 Pro 512GB - Black Titanium,iPhone 15 Pro,512GB,Black Titanium
+APP-IP15PRO-512G-BLUETI,iPhone 15 Pro 512GB - Blue Titanium,iPhone 15 Pro,512GB,Blue Titanium
+APP-IP15PRO-512G-NATURA,iPhone 15 Pro 512GB - Natural Titanium,iPhone 15 Pro,512GB,Natural Titanium
+APP-IP15PRO-512G-WHITET,iPhone 15 Pro 512GB - White Titanium,iPhone 15 Pro,512GB,White Titanium
