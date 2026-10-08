@@ -158,5 +158,5 @@ The repository includes enterprise-grade, commented SQL queries partitioned into
 ## 📬 Contact & Portfolio
 
 - **LinkedIn:** [Ismail Dad Khan](https://www.linkedin.com/in/ismail-dad-khan/)
-- **Interactive Portfolio:** [ismaildadkhan.lovable.app](https://ismaildadkhan.lovable.app/)
+- **Interactive DashBoard:** [Looker Studio](https://datastudio.google.com/reporting/174be905-0103-405b-be1f-d405acb45fdb/page/c0p9F)
 - **GitHub:** [@IsmailDadKhan](https://github.com/IsmailDadKhan)
